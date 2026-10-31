@@ -49,7 +49,7 @@ Here is a pre-start checklist:
 </p>
 
 ---
-
+This repository was cloned and edited by me.
 ## Implementation
 
 ** ADD YOUR IMPLEMENTATION DOCUMENTATION HERE **
